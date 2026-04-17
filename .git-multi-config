@@ -1,0 +1,6 @@
+# git-multi 配置文件
+# 自动生成于 Fri Apr 17 02:57:38 PM CST 2026
+
+REPO_MAIN="/home/dev/independent/new_project"
+REPO_APIS="/home/dev/independent/eade_apis"
+REPO_SKILLS="/home/dev/independent/eade_skills"
